@@ -1,0 +1,1 @@
+Hey there {first_name}, isn't this a {adj} template?

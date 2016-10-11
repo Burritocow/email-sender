@@ -1,0 +1,6 @@
+email:
+    send:
+        from: "ourfromaddress@wherever.com"
+        replyto: "anotheraddress@somewhere.com"
+        subject: "This totally isn't spam"
+    template: "template1.txt"
